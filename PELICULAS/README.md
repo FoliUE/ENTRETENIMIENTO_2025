@@ -216,7 +216,7 @@
 |----|----------------------------------------------------|------|---|            
 | ✅ | Indiana Jones: En busca del arca perdida           | 1981 | 53/63 |                      
 | ✅ | Indiana Jones: El templo maldito                   | 1984 | 78/75 |                              
-| ❌ | Indiana Jones: La última cruzada                   | 1989 | - |                              
+| ✅ | Indiana Jones: La última cruzada                   | 1989 | 70/84 |                              
 | ❌ | Indiana Jones y el reino de la calavera de cristal | 2008 | - |            
 
 ---
