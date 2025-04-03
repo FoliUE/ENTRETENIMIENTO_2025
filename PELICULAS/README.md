@@ -218,7 +218,7 @@
 | ✅ | Indiana Jones: El templo maldito                   | 1984 | 78/75 |                              
 | ✅ | Indiana Jones: La última cruzada                   | 1989 | 70/84 |                              
 | ❌ | Indiana Jones y el reino de la calavera de cristal | 2008 | - |            
-
+| ❌ | Indiana Jones y el llamado del destino             | 2023 | - |
 ---
 
 # UCM
