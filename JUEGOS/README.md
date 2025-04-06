@@ -47,7 +47,7 @@
 ## Resident Evil
 | ⬜ | Juego                                      | Año | Nota |                                                    
 |----|--------------------------------------------|-----|------|
-| ❌ | Resident Evil                              | 1996 | - | 
+| ✅ | Resident Evil                              | 1996 | 93 | 
 | ❌ | Resident Evil 2 (Remake)                   | 2019 | - | 
 | ❌ | Resident Evil 3: Nemesis (Remake)          | 2020 | - | 
 | ❌ | Resident Evil 4 (Remake)                   | 2023 | - | 
