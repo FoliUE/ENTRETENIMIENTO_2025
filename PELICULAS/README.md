@@ -79,7 +79,9 @@
 | ❌ | Historia Americana X                          | 1998 | - |             
 | ❌ | Belleza Americana                             | 1999 | - |             
 | ❌ | Una mente brillante                           | 2001 | - |             
-| ❌ | The Deer Hunter                               | 1978 | - |              
+| ❌ | The Deer Hunter                               | 1978 | - |
+| ❌ | TROYA                                         | 2004 | - |
+| ❌ | MINECRAFT                                     | 2025 | 12/ |
 
 ---
 
@@ -164,12 +166,12 @@
 ---
 
 # AMERICAN PIE
-| ⬜ | Película                              | Año | Nota |                                                    
-|----|---------------------------------------|------|---|            
-| ❌ | American Pie                          | 1999 | - |              
-| ❌ | American Pie 2                        | 2001 | - |                     
-| ❌ | American Pie: La Boda                 | 2003 | - |                       
-| ❌ | American Pie: El Reencuentro          | 2012 | - |                               
+| ⬜ | Película                              | Año | Nota |
+|----|---------------------------------------|------|---|
+| ❌ | American Pie                          | 1999 | - |
+| ❌ | American Pie 2                        | 2001 | - |
+| ❌ | American Pie: La Boda                 | 2003 | - |
+| ❌ | American Pie: El Reencuentro          | 2012 | - |
 
 ---
 
