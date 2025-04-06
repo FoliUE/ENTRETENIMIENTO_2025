@@ -23,7 +23,7 @@
 ## PENDIENTES X LANZAMIENTO 2025
 |Juego                                      | Lanzamiento |                                                   
 |-------------------------------------------|-------------|
-|The Last of Us: Part II                    | 3 de Abril | 
+|✅ The Last of Us: Part II                    | 3 de Abril | 
 
 ---
 
@@ -48,8 +48,8 @@
 | ⬜ | Juego                                      | Año | Nota |                                                    
 |----|--------------------------------------------|-----|------|
 | ✅ | Resident Evil                              | 1996 | 93 | 
-| ❌ | Resident Evil 2 (Remake)                   | 2019 | - | 
-| ❌ | Resident Evil 3: Nemesis (Remake)          | 2020 | - | 
-| ❌ | Resident Evil 4 (Remake)                   | 2023 | - | 
+| ✅ | Resident Evil 2 (Remake)                   | 2019 | 89 | 
+| ✅ | Resident Evil 3: Nemesis (Remake)          | 2020 | 83 | 
+| ✅ | Resident Evil 4 (Remake)                   | 2023 | 96 | 
 | ❌ | Resident Evil 7                            | 2017 | - | 
 | ❌ | Resident Evil 8: Village                   | 2021 | - | 
