@@ -214,13 +214,13 @@
 ---
 
 # INDIANA JONES
-| ⬜ | Película | Año | Nota |                                                    
-|----|----------------------------------------------------|------|---|            
-| ✅ | Indiana Jones: En busca del arca perdida           | 1981 | 53/63 |                      
-| ✅ | Indiana Jones: El templo maldito                   | 1984 | 78/75 |                              
-| ✅ | Indiana Jones: La última cruzada                   | 1989 | 70/84 |                              
-| ✅ | Indiana Jones y el reino de la calavera de cristal | 2008 | 32/70 |            
-| ❌ | Indiana Jones y el llamado del destino             | 2023 | - |
+| ⬜ | Película | Año | Nota |
+|----|----------------------------------------------------|------|-------|
+| ✅ | Indiana Jones: En busca del arca perdida           | 1981 | 53/63 |
+| ✅ | Indiana Jones: El templo maldito                   | 1984 | 80/75 |
+| ✅ | Indiana Jones: La última cruzada                   | 1989 | 67/84 |
+| ✅ | Indiana Jones y el reino de la calavera de cristal | 2008 | 32/70 |
+| ✅ | Indiana Jones y el llamado del destino             | 2023 | 47/78 |
 ---
 
 # UCM
