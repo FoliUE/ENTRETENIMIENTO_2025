@@ -11,13 +11,14 @@
 | ✅ | Marvel's Spider-man 2                     | 2023 | 92 |     
 | ✅ | God of War 4                              | 2018 | 91 |      
 | ❌ | God of War: Ragnarök                      | 2022 | - |      
-| ❌ | The Last of Us: Part I                    | 2013 | - |      
+| ✅ | The Last of Us: Part I                    | 2013 | 96 |      
 | ❌ | The Last of Us: Part II                   | 2020 | - |      
 | ❌ | Sherlock Holmes: Chapter One              | 2021 | - |      
 | ❌ | Sherlock Holmes: The Awakened             | 2023 | - |      
 | ❌ | Disco Elysium                             | 2019 | - |      
 | ❌ | Prototype                                 | 2009 | - |      
-| ❌ | Prototype 2                               | 2012 | - |      
+| ❌ | Prototype 2                               | 2012 | - |
+| ❌ | F125: Breaking Point T3                   | 2025 | - |
 
 
 ## PENDIENTES X LANZAMIENTO 2025
