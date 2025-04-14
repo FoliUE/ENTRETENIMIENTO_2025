@@ -80,7 +80,7 @@
 | ❌ | Belleza Americana                             | 1999 | - |             
 | ❌ | Una mente brillante                           | 2001 | - |             
 | ❌ | The Deer Hunter                               | 1978 | - |
-| ❌ | TROYA                                         | 2004 | - |
+| ✅ | TROYA                                         | 2004 | 98/94 |
 | ❌ | MINECRAFT                                     | 2025 | 12/ |
 
 ---
@@ -221,6 +221,18 @@
 | ✅ | Indiana Jones: La última cruzada                   | 1989 | 67/84 |
 | ✅ | Indiana Jones y el reino de la calavera de cristal | 2008 | 32/70 |
 | ✅ | Indiana Jones y el llamado del destino             | 2023 | 47/78 |
+---
+
+# DESTINO FINAL
+| ⬜ | Película             | Año | Nota |                                                    
+|----|----------------------|------|-----|                         
+| ❌ | Destino Final 1      | 2000 | - |              
+| ❌ | Destino Final 2      | 2003 | - |              
+| ❌ | Destino Final 3      | 2006 | - |              
+| ❌ | Destino Final 4      | 2009 | - |              
+| ❌ | Destino Final 5      | 2011 | - |              
+| ❌ | Destino Final 6      | 2025 | - |              
+  
 ---
 
 # UCM
