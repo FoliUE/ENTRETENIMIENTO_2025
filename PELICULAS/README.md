@@ -178,7 +178,7 @@
 # RUSH HOUR TRILOGY
 | ⬜ | Película             | Año | Nota |                                                    
 |----|----------------------|------|-----|            
-| ❌ | Rush Hour            | 1998 | - |              
+| ✅ | Rush Hour            | 1998 | 90 |              
 | ❌ | Rush Hour: 2         | 2001 | - |                     
 | ❌ | Rush Hour: 3         | 2007 | - |                                       
 
