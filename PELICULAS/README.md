@@ -168,7 +168,7 @@
 # AMERICAN PIE
 | ⬜ | Película                              | Año | Nota |
 |----|---------------------------------------|------|---|
-| ❌ | American Pie                          | 1999 | - |
+| ❌ | American Pie                          | 1999 | 83/86 |
 | ❌ | American Pie 2                        | 2001 | - |
 | ❌ | American Pie: La Boda                 | 2003 | - |
 | ❌ | American Pie: El Reencuentro          | 2012 | - |
