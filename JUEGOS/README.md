@@ -19,7 +19,7 @@
 | ❌ | Prototype                                 | 2009 | - |      
 | ❌ | Prototype 2                               | 2012 | - |
 | ✅ | Mortal Kombat 1                           | 2023 | 75 |
-| ❌ | F125: Breaking Point T3                   | 2025 | - |
+| ❌ | F1 25: Breaking Point T3                  | 2025 | - |
 | ❌ | Clair Obscur: Expedition 33               | 2025 | - |
 | ❌ | Nightingale                               | 2024 | - |
 | ❌ | Ruined King: A League of Legends Story    | 2021 | - |
