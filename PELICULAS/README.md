@@ -58,7 +58,7 @@
 | ❌ | Moonlight                                     | 2016 | - |           
 | ❌ | Good Will Hunting                             | 1997 | - |           
 | ❌ | Gran Turismo                                  | 2023 | - |           
-| ❌ | La sociedad de los poetas muertos             | 1989 | 90/91 |            
+| ✅ | La sociedad de los poetas muertos             | 1989 | 90/91 |            
 | ❌ | Mas allá de los sueños                        | 1998 | - |            
 | ❌ | Ready Player One                              | 2018 | - |            
 | ❌ | Jumanji                                       | 1995 | - |            
@@ -81,7 +81,7 @@
 | ❌ | Una mente brillante                           | 2001 | - |             
 | ❌ | The Deer Hunter                               | 1978 | - |
 | ✅ | TROYA                                         | 2004 | 98/94 |
-| ❌ | MINECRAFT                                     | 2025 | 12/ |
+| ✅ | MINECRAFT                                     | 2025 | 12/0 |
 
 ---
 
@@ -170,8 +170,8 @@
 |----|---------------------------------------|------|-----|
 | ✅ | American Pie                          | 1999 | 83/86 |
 | ✅ | American Pie 2                        | 2001 | 86/81 |
-| ❌ | American Pie: La Boda                 | 2003 | - |
-| ❌ | American Pie: El Reencuentro          | 2012 | - |
+| ✅ | American Pie: La Boda                 | 2003 | 88/86 |
+| ✅ | American Pie: El Reencuentro          | 2012 | 90/87 |
 
 ---
 
