@@ -16,10 +16,8 @@
 | ❌ | Sherlock Holmes: Chapter One              | 2021 | - |      
 | ❌ | Sherlock Holmes: The Awakened             | 2023 | - |      
 | ❌ | Disco Elysium                             | 2019 | - |      
-| ❌ | Prototype                                 | 2009 | - |      
-| ❌ | Prototype 2                               | 2012 | - |
 | ✅ | Mortal Kombat 1                           | 2023 | 75 |
-| ❌ | F1 25: Breaking Point T3                  | 2025 | - |
+| ✅ | F1 25: Breaking Point T3                  | 2025 | 87 |
 | ❌ | Clair Obscur: Expedition 33               | 2025 | - |
 | ❌ | Nightingale                               | 2024 | - |
 | ❌ | Ruined King: A League of Legends Story    | 2021 | - |
@@ -52,3 +50,10 @@
 | ✅ | Resident Evil 4 (Remake)                   | 2023 | 96 | 
 | ❌ | Resident Evil 7                            | 2017 | - | 
 | ❌ | Resident Evil 8: Village                   | 2021 | - | 
+
+## PROXIMOS LANZAMIENTOS
+|  ⬜  | Juego                                      | FECHA |                                                  
+|-------|---------------------------------------------|-----|
+| 🔜⌛ | Resident Evil : Requiem (RE:9)      | 27 de Febrero 2026 |
+| 🔜⌛ | Ill                                          | - |
+| 🔜⌛ | Grand Theft Auto VI                          | - |

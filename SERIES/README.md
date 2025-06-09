@@ -7,6 +7,8 @@
 - [ ] Daredevil - Born Again (2025)
 - [ ] Obi-Wan (2022)
 - [ ] Los Simuladores (2002 - 2004)
+- [ ] House of the dragon (2022 - Today)
+- [x] Game of Thrones (2011 - 2019)
 
 ---
 
@@ -23,3 +25,13 @@
 | ❌ | Obi-Wan                                   | 2022 | - |
 | ❌ | Los simuladores: T1                       | 2002 | - |
 | ❌ | Los simuladores: T2                       | 2003 | - |
+| ❌ | House of the dragon: T1                   | 2022 | - |
+| ❌ | House of the dragon: T2                   | 2024 | - |
+| ❌ | Game of Thrones: T1                       | 2011 | - |
+| ❌ | Game of Thrones: T2                       | 2012 | - |
+| ❌ | Game of Thrones: T3                       | 2013 | - |
+| ❌ | Game of Thrones: T4                       | 2014 | - |
+| ❌ | Game of Thrones: T5                       | 2015 | - |
+| ❌ | Game of Thrones: T6                       | 2016 | - |
+| ❌ | Game of Thrones: T7                       | 2017 | - |
+| ❌ | Game of Thrones: T8                       | 2019 | - |
