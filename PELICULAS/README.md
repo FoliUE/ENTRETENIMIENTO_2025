@@ -81,7 +81,7 @@
 | ❌ | Una mente brillante                           | 2001 | - |             
 | ❌ | The Deer Hunter                               | 1978 | - |
 | ✅ | TROYA                                         | 2004 | 98/94 |
-| ✅ | MINECRAFT                                     | 2025 | 12/0 |
+| ✅ | MINECRAFT                                     | 2025 | 12/33 |
 
 ---
 
