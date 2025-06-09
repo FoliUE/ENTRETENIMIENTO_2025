@@ -226,7 +226,7 @@
 # DESTINO FINAL
 | ⬜ | Película             | Año | Nota |                                                    
 |----|----------------------|------|-----|                         
-| ❌ | Destino Final 1      | 2000 | - |              
+| ✅ | Destino Final 1      | 2000 | 68/79 |              
 | ❌ | Destino Final 2      | 2003 | - |              
 | ❌ | Destino Final 3      | 2006 | - |              
 | ❌ | Destino Final 4      | 2009 | - |              
