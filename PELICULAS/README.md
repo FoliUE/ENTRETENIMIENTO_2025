@@ -229,7 +229,7 @@
 |----|----------------------|------|-----|                         
 | ✅ | Destino Final 1      | 2000 | 68/79 |              
 | ✅ | Destino Final 2      | 2003 | 45/73 |              
-| ✅ | Destino Final 3      | 2006 | 53/72 |              
+| ✅ | Destino Final 3      | 2006 | 53/73 |              
 | ❌ | Destino Final 4      | 2009 | - |              
 | ❌ | Destino Final 5      | 2011 | - |              
 | ❌ | Destino Final 6      | 2025 | - |              
