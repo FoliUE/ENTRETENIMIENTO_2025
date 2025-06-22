@@ -82,6 +82,7 @@
 | ❌ | The Deer Hunter                               | 1978 | - |
 | ✅ | TROYA                                         | 2004 | 98/94 |
 | ✅ | MINECRAFT                                     | 2025 | 12/33 |
+| ❌ | Until Dawn                                    | 2025 | - |
 
 ---
 
@@ -232,7 +233,7 @@
 | ✅ | Destino Final 3      | 2006 | 53/73 |              
 | ✅ | Destino Final 4      | 2009 | 22/45 |              
 | ✅ | Destino Final 5      | 2011 | 61/79 |              
-| ❌ | Destino Final 6      | 2025 | - |              
+| ✅ | Destino Final 6      | 2025 | 50/79 |              
   
 ---
 
