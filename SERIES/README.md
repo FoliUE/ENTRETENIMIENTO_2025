@@ -27,11 +27,13 @@
 | ❌ | Los simuladores: T2                       | 2003 | - |
 | ❌ | House of the dragon: T1                   | 2022 | - |
 | ❌ | House of the dragon: T2                   | 2024 | - |
-| ❌ | Game of Thrones: T1                       | 2011 | - |
-| ❌ | Game of Thrones: T2                       | 2012 | - |
-| ❌ | Game of Thrones: T3                       | 2013 | - |
-| ❌ | Game of Thrones: T4                       | 2014 | - |
-| ❌ | Game of Thrones: T5                       | 2015 | - |
-| ❌ | Game of Thrones: T6                       | 2016 | - |
-| ❌ | Game of Thrones: T7                       | 2017 | - |
-| ❌ | Game of Thrones: T8                       | 2019 | - |
+| ✅ | Game of Thrones: T1                       | 2011 | 95/92 |
+| ✅ | Game of Thrones: T2                       | 2012 | 89/87 |
+| ✅ | Game of Thrones: T3                       | 2013 | 100/96 |
+| ✅ | Game of Thrones: T4                       | 2014 | 100/96 |
+| ✅ | Game of Thrones: T5                       | 2015 | 98/86 |
+| ✅ | Game of Thrones: T6                       | 2016 | 100/97 |
+| ✅ | Game of Thrones: T7                       | 2017 | 80/85 |
+| ✅ | Game of Thrones: T8                       | 2019 | 45/74 |
+| ❌ | The Last of Us: T1                        | 2023 | - |
+| ❌ | The Last of Us: T2                        | 2025 | - |
