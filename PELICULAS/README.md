@@ -92,7 +92,7 @@
 | ✅ | Star Wars: Episodio I - La amenaza fantasma       | 2000 | 75/84 |
 | ✅ | Star Wars: Episodio II - El ataque de los clones  | 2002 | 80/80 |
 | ✅ | Star Wars: Episodio III - La venganza de los Sith | 2005 | 92/92 |
-| ❌ | Star Wars: Rouge One                              | 2016 | - |
+| ✅ | Star Wars: Rouge One                              | 2016 | 90/83 |
 | ❌ | Star Wars: Episodio IV - Una nueva esperanza      | 1977 | - |
 | ❌ | Star Wars: Episodio V - El Imperio contraataca    | 1980 | - |
 | ❌ | Star Wars: Episodio VI - El retorno del Jedi      | 1983 | - |

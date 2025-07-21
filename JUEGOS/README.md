@@ -49,8 +49,8 @@
 | ✅ | Resident Evil 2 (Remake)                   | 2019 | 89 |  22/03/2025  | - |
 | ✅ | Resident Evil 3: Nemesis (Remake)          | 2020 | 83 |  23/03/2025  | - |
 | ✅ | Resident Evil 4 (Remake)                   | 2023 | 96 |  30/03/2025  | - |
-| ✅ | Resident Evil 7                            | 2017 | 85  |  24/07/2025  | [link](https://steamcommunity.com/id/LeoKBza/recommended/418370/) |
-| ❌ | Resident Evil 8: Village                   | 2021 | -  |  -  | - |
+| ✅ | Resident Evil 7                            | 2017 | 85 |  24/06/2025  | [link](https://steamcommunity.com/id/LeoKBza/recommended/418370/) |
+| ✅ | Resident Evil 8: Village                   | 2021 | 88 |  01/07/2025  | - |
 
 ## PROXIMOS LANZAMIENTOS
 |  ⬜  | Juego                                      | FECHA |                                                  
