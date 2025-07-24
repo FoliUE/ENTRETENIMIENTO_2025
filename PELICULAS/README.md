@@ -95,7 +95,7 @@
 | ✅ | Star Wars: Rouge One                              | 2016 | 90/83 |
 | ✅ | Star Wars: Episodio IV - Una nueva esperanza      | 1977 | 80/86 |
 | ✅ | Star Wars: Episodio V - El Imperio contraataca    | 1980 | 85/86 |
-| ❌ | Star Wars: Episodio VI - El retorno del Jedi      | 1983 | - |
+| ✅ | Star Wars: Episodio VI - El retorno del Jedi      | 1983 | 90/80 |
 
 ---
 
